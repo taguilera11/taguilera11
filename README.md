@@ -11,32 +11,32 @@
 ###
 
 <div align="left">
-  <a href="https://www.java.com/" target="_blank">
+  <a href="https://www.java.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   </a>
   <img width="12" />
   
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   </a>
   <img width="12" />
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   </a>
   <img width="12" />
   
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   </a>
   <img width="12" />
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   </a>
   <img width="12" />
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   </a>
 </div>
