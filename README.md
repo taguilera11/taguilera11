@@ -1,8 +1,8 @@
-<h2 align="left">About Me:</h2>
+# About Me:
 
-###
-
-<p align="left">🎓 I’m currently studying Systems Engineering and Computing at Universidad de los Andes.  <br>🚀 Passionate about learning and gaining experience in the field.  <br>💡 Always eager to explore new technologies and improve my skills.</p>
+🎓 I’m currently studying Systems Engineering and Computing at Universidad de los Andes.  
+🚀 Passionate about learning and gaining experience in the field.  
+💡 Always eager to explore new technologies and improve my skills.  
 
 ###
 
