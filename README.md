@@ -9,4 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=taguilera11&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taguilera11&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+__
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dt9qu0jmhsd66x2uais8ypqdk)
