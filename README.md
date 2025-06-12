@@ -5,7 +5,6 @@
 💡 Always eager to explore new technologies and improve my skills.  
 
 ###
-
 <h2 align="left">Tech Stack:</h2>
 
 ###
@@ -76,6 +75,27 @@
     <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
   </a>
 </div>
+
+###
+
+<div align="left">
+  <a href="https://www.postman.com/">
+    <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
+  </a>
+  <img width="12" />
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  </a>
+</div>
+
 
 ###
 
