@@ -10,20 +10,20 @@
 ###
 
 <div align="left">
-  <a href="https://www.java.com/">
+
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  </a>
+
   <img width="12" />
   
-  <a href="https://www.python.org/" >
+
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  </a>
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <a href="https://www.typescriptlang.org/">
+
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  </a>
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -35,65 +35,59 @@
 ###
 
 <div align="left">
-  <a href="https://spring.io/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  </a>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+
   <img width="12" />
-  <a href="https://nodejs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  </a>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
   <img width="12" />
-  <a href="https://www.mongodb.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+ 
   <img width="12" />
-  <a href="https://www.oracle.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://angular.io/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
-  </a>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
+
   <img width="12" />
-  <a href="https://reactjs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  </a>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+ 
   <img width="12" />
-  <a href="https://getbootstrap.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  </a>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+
   <img width="12" />
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-  </a>
+
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.postman.com/">
-    <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
-  </a>
+  
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
+
   <img width="12" />
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
-  </a>
+  
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
+
   <img width="12" />
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
-  </a>
+
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
+
   <img width="12" />
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  </a>
+
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+
 </div>
 
 
